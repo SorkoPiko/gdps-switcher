@@ -1,6 +1,4 @@
-#include <Geode/modify/CCHttpClient.hpp>
 #include <Geode/utils/web.hpp>
-#include "../utils/DataManager.hpp"
 
 using namespace geode::prelude;
 
