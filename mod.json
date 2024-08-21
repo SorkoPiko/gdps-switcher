@@ -6,10 +6,10 @@
 		"mac": "2.206"
 	},
 	"version": "v1.1.2",
-	"id": "km7dev.gdps-switcher",
-	"name": "GDPS Switcher",
+	"id": "km7dev.gdps-switcher-test",
+	"name": "crash test",
 	"developer": "km7dev",
-	"description": "Switch between GDPS servers easily.",
+	"description": "testin for a crash.",
 	"tags": [
 		"customization",
 		"online"
